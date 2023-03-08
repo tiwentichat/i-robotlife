@@ -1,10 +1,9 @@
 I-Robot.Life：智·能改变生活
 ===
 
-700多个AI工具的入口
+700个AI工具的入口：从这里开始，探索AI宇宙
 
 
-本项目基于中文版 [Reference](https://github.com/jaywcjlove/reference) 。
 
 您可以通过提交 [PR](https://github.com/tiwentichat/tiwentichat/blob/main/CONTRIBUTING.md) 来添加更多新AI工具。
 
@@ -5975,3 +5974,7 @@ SEO
 -    搜索数以百万计的艺术形象通过人工智能模型像DALL-E,稳定的扩散,Midjourney……
 
 													
+致谢
+----------
+
+本项目基于中文版 [Reference](https://github.com/jaywcjlove/reference) 。
